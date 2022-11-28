@@ -1,0 +1,5 @@
+Sugar process data from Bro, Chemometrics & 
+Intelligent Laboratory Systems, 1999, (46), 133-147 
+
+For further info see above reference or
+http://www.models.kvl.dk/users/rasmus/
